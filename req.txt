@@ -1,0 +1,4 @@
+rq==1.11.1
+redis==3.5.3
+boto3==1.9.208
+ffmpeg-python==0.2.0
